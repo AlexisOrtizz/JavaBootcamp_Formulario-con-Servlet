@@ -52,7 +52,7 @@
                     <a class="nav-link" href="./frmMoneda.html">Monedas</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="./frmProducto.html">Productos</a>
+                    <a class="nav-link active" aria-current="page" href="./frmProducto">Productos</a>
                 </li>
             </ul>
           </div>
